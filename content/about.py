@@ -13,10 +13,10 @@ def about():
     <h5><em>~ ~ ~ ~ ~ Our Team ~ ~ ~ ~ ~</em></h5>
     """, unsafe_allow_html=True)
 
-    a, b = st.columns([0.7, 0.3])
-    with a:
+    x, y = st.columns([0.7, 0.3])
+    with x:
         st.image("assets/members.png")
-    with b:
+    with y:
         st.image("https://media.tenor.com/xXNzEkd7BYYAAAAi/yapapa-cat.gif")
 
     st.markdown("""
