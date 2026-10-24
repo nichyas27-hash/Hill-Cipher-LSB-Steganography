@@ -7,7 +7,7 @@ st.markdown("""
 def about():
     st.markdown("""
     <div style="margin-top: 20px">
-    <h4>🚀 Hill Cipher - LSB Steganography</h4>
+    <h3>🚀 Hill Cipher - LSB Steganography</h3>
     <p>Program ini dikembangkan sebagai media pembelajaran kriptografi klasik dan steganografi, 
     khususnya metode <b>Hill Cipher</b> untuk proses enkripsi dan dekripsi pesan serta 
     <b>Least Significant Bit (LSB)</b> untuk menyisipkan pesan rahasia ke dalam citra digital. 
