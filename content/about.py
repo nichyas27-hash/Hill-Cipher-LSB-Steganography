@@ -71,7 +71,7 @@ def about():
             <div style="display: flex; gap: 20px">
                 <a href="https://www.instagram.com/raaaang27/" target="blank_" style="font-size: 24px"><i class="fab fa-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/muhammadranggaarisandy/" target="blank_" style="font-size: 24px"><i class="fab fa-linkedin"></i></a>
-                <a href="#" style="font-size: 24px"><i class="fab fa-github"></i></a>
+                <a href="https://github.com/Rangga-Ari/" target="blank_" style="font-size: 24px"><i class="fab fa-github"></i></a>
             </div>
             """, unsafe_allow_html=True)    
         with y:
